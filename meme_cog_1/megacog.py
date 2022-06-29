@@ -74,3 +74,8 @@ class MegaCog(commands.Cog):
     async def hugprice(self, ctx):
         """send help"""
         await ctx.send("https://cdn.discordapp.com/attachments/222078231040229376/970495419094286346/sUaKBaj.jpeg")
+        
+    @commands.command()
+    async def jas(self, ctx):
+        """hehehehehehehe"""
+        await ctx.send("sheesh")
