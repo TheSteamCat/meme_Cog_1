@@ -79,3 +79,12 @@ class MegaCog(commands.Cog):
     async def jas(self, ctx):
         """hehehehehehehe"""
         await ctx.send("sheesh")
+    
+    @commands.command()
+    async def a(self, ctx):
+        """a"""
+        await ctx.send("https://media.discordapp.net/attachments/992477336479993907/996169319518052423/755679374031847494.gif")
+    
+    
+    
+    
